@@ -1,0 +1,3 @@
+[submodule "sdk-bsp-ra6m3-hmi-board"]
+	path = sdk-bsp-ra6m3-hmi-board
+	url = git@github.com:RT-Thread-Studio/sdk-bsp-ra6m3-hmi-board.git

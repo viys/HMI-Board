@@ -37,3 +37,7 @@ HMI-Board 为 RT-Thread 联合瑞萨推出的高性价比图形评估套件，�
 
 - 注意：BSP默认是最小系统，若需添加/使能其他外设需参考：[外设驱动使用教程 (rt-thread.org)](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-standard/tutorial/make-bsp/renesas-ra/RA系列BSP外设驱动使用教程)
 - 文档中心:[📖](https://www.rt-thread.org/document/site/#/rt-thread-version/rt-thread-standard/hw-board/ra6m3-hmi-board/ra6m3-hmi-board)
+
+## 仓库说明:
+
+- sdk-bsp-ra6m3-hmi-board:RTT官方仓库
